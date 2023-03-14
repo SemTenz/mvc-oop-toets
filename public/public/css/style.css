@@ -1,3 +1,10 @@
 h3 {
     color: red;
 }
+
+tr > td {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 1px;
+    font-size: 17px;
+}
