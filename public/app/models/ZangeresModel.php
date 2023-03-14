@@ -9,7 +9,7 @@ class ZangeresModel
         $this->db = new Database();
     }
 
-    public function getVoetballers()
+    public function getZangeres()
     {
         $sql = 'SELECT  Id
                        ,Naam
