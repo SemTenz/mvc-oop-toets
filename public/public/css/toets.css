@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+tr > td {
+    border-bottom: 1px solid gray;
+    padding: 8px;
+    font-size: 17px;
+
+}
+
+tr > th {
+    text-align: left;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    font-size: 17px;
+}
