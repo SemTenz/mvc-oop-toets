@@ -13,10 +13,10 @@
     <table border='1'>
         <thead>
             <th>Naam</th>
-            <th>Club</th>
+            <th>NettoWaarde (miljoen)</th>
+            <th>Land</th>
+            <th>Mobiel</th>
             <th>Leeftijd</th>
-            <th>Nationaliteit</th>
-            <th>Salaris (miljoen)</th>
         </thead>
         <tbody>
             <?= $data['tableRows']; ?>
